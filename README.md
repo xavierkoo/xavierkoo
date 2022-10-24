@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Xavier Koo</h1>
 <h3 align="center">An aspiring software engineer from Singapore Management University</h3>
 
-- 🌱 I’m currently learning **full stack development on fullstackopen**
+- 🌱 I’m currently pursuing a **BSc in Information Systems**
 
 - 📝 I write articles on [https://medium.com/@xavier2812](https://medium.com/@xavier2812)
 
