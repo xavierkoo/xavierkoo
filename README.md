@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Xavier Koo</h1>
-<h3 align="center">An aspiring software engineer from Singapore Management University</h3>
+https://readme-typing-svg.herokuapp.com/?center=true&lines=Aspiring+Software+Engineer;SMU+Information+Systems+Student
 
 - 🌱 I’m currently pursuing a **BSc (Information Systems)**
 
