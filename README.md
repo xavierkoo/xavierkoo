@@ -4,8 +4,6 @@
   <a href="[https://www.linkedin.com/in/chong-jie-mi/](https://linkedin.com/in/xavier-koo)">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-    <a href="https://www.leetcode.com/bobzbanana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bobzbanana" height="30" width="40" /></a>
-</p>
 </div>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&lines=Aspiring+Software+Engineer;SMU+Information+Systems+Student)](https://git.io/typing-svg)
