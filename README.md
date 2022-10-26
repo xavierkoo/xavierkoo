@@ -1,8 +1,8 @@
 <div align="center">
   <h1 align="center">Hi 👋, I'm Xavier Koo</h1>
-  <div id="badges">
-    [![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&lines=Aspiring+Software+Engineer;SMU+Information+Systems+Student)](https://git.io/typing-svg)
-    <a href="https://www.linkedin.com/in/xavier-koo/">
+![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&lines=Aspiring+Software+Developer;SMU+Computer+Science+student)](https://git.io/typing-svg)
+   <div id="badges">
+    <a href="https://www.linkedin.com/in/chong-jie-mi/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
   </div>
