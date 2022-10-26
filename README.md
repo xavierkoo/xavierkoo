@@ -51,6 +51,5 @@
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
 </div>
 
-![](https://komarev.com/ghpvc/?username=xavierkoo)
-
-[![Xavier's GitHub stats](https://github-readme-stats.vercel.app/api?username=xavierkoo)](https://github.com/anuraghazra/github-readme-stats)
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=xavierkoo&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Xavier's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xavierkoo&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
