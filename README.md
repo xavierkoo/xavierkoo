@@ -1,12 +1,13 @@
 <div align="center">
   <h1 align="center">Hi 👋, I'm Xavier Koo</h1>
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&lines=Aspiring+Software+Engineer;SMU+Information+Systems+Student)    (https://git.io/typing-svg)
+</div>
 
-  <div id="badges">
-    <a href="https://www.linkedin.com/in/xavier-koo/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-  </div>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&lines=Aspiring+Software+Engineer;SMU+Information+Systems+Student)](https://git.io/typing-svg)
+
+<div id="badges">
+  <a href="https://www.linkedin.com/in/xavier-koo/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
 </div>
 
 - 🌱 I’m currently learning **full stack development**
