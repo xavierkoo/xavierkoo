@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **full stack development**
 
-- 💻 Check out my website on [https://xavier-koo.netlify.app/]
+- 💻 Check out my website on [https://xavier-koo.netlify.app/](https://xavier-koo.netlify.app/)
 
 - 📝 I write articles on [https://medium.com/@xavier2812](https://medium.com/@xavier2812)
 
