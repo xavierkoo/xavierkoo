@@ -21,13 +21,13 @@
 
 - ⚡ Fun fact **I used to fly planes as a pilot trainee**
 
-#### Languages 
+### Languages 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,py,php)](https://skillicons.dev)
 
-#### Frameworks & Libraries
+### Frameworks & Libraries
 [![My Skills](https://skillicons.dev/icons?i=bootstrap,react,vue,jest,nodejs,express,)](https://skillicons.dev)
 
-#### Databases & Tools
+### Databases & Tools
 [![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,heroku,netlify,figma,git,github)](https://skillicons.dev)
 <br />  <br />
 
