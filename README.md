@@ -15,9 +15,9 @@
 
 - 📝 I write articles on [https://medium.com/@xavier2812](https://medium.com/@xavier2812)
 
-- 🔭 My interests are **full stack development, machine learning, artificial intelligence**
+- 🔭 My interests are in **full stack development, machine learning, artificial intelligence**
 
-- 📫 How to reach me **xavier.koo.2021@scis.smu.edu.sg**
+- 📫 How to reach me: **xavier.koo.2021@scis.smu.edu.sg**
 
 - ⚡ Fun fact **I used to fly planes as a pilot trainee**
 
