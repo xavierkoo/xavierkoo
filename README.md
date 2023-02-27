@@ -19,7 +19,7 @@
 
 - 📫 How to reach me: **xavier.koo.2021@scis.smu.edu.sg**
 
-- ⚡ Fun fact **I used to fly planes as a pilot trainee**
+- ⚡ Fun fact: **I used to fly planes as a pilot trainee**
 
 ### Languages 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,py,php)](https://skillicons.dev)
