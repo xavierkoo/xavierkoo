@@ -31,4 +31,3 @@
 [![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,heroku,netlify,figma,git,github)](https://skillicons.dev)
 <br />  <br />
 ![Xavier's GitHub stats](https://github-readme-stats.vercel.app/api?username=xavierkoo&show_icons=true&&theme=buefy&locale=en)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xavierkoo&langs_count=6&layout=compact&theme=buefy&hide_border=true&exclude_repo=facebook-human-or-robots-kaggle)
