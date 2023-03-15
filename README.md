@@ -22,7 +22,7 @@
 - ⚡ Fun fact: **I used to fly planes as a pilot trainee**
 
 ### Languages 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,py,java)](https://skillicons.dev)
 
 ### Frameworks & Libraries
 [![My Skills](https://skillicons.dev/icons?i=bootstrap,react,vue,jest,nodejs,express,spring)](https://skillicons.dev)
