@@ -22,12 +22,12 @@
 - ⚡ Fun fact: **I used to fly planes as a pilot trainee**
 
 ### Languages 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,py,java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,py,java)](https://skillicons.dev)
 
 ### Frameworks & Libraries
 [![My Skills](https://skillicons.dev/icons?i=bootstrap,react,vue,jest,nodejs,express,spring)](https://skillicons.dev)
 
 ### Databases & Tools
-[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,docker,git,github,sass,rabbitmq,heroku,netlify,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,docker,git,github,rabbitmq,heroku,netlify,figma)](https://skillicons.dev)
 <br />  <br />
 ![Xavier's GitHub stats](https://github-readme-stats.vercel.app/api?username=xavierkoo&show_icons=true&&theme=buefy&locale=en&count_private=true)
