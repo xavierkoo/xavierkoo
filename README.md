@@ -28,6 +28,6 @@
 [![My Skills](https://skillicons.dev/icons?i=bootstrap,react,vue,jest,nodejs,express,spring)](https://skillicons.dev)
 
 ### Databases & Tools
-[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,docker,git,github,rabbitmq,heroku,netlify,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,docker,git,github,rabbitmq,vite,heroku,netlify,figma)](https://skillicons.dev)
 <br />  <br />
 ![Xavier's GitHub stats](https://github-readme-stats.vercel.app/api?username=xavierkoo&show_icons=true&&theme=buefy&locale=en&count_private=true)
