@@ -25,7 +25,7 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,py,java)](https://skillicons.dev)
 
 ### Frameworks & Libraries
-[![My Skills](https://skillicons.dev/icons?i=bootstrap,react,vue,jest,nodejs,express,spring)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,react,vue,jest,nodejs,express,electron,spring)](https://skillicons.dev)
 
 ### Databases & Tools
 [![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,docker,git,github,rabbitmq,vite,heroku,netlify,figma)](https://skillicons.dev)
