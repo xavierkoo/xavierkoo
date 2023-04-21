@@ -9,7 +9,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&lines=Aspiring+Software+Engineer;SMU+Information+Systems+Student)](https://git.io/typing-svg)
 </div>
 
-- 🌱 I’m currently learning **full stack development, Java and object oriented programming**
+- 🌱 I’m currently learning **full stack development (Electron.js & Redux)**
 
 - 💻 Check out my website on [https://xavier-koo.netlify.app/](https://xavier-koo.netlify.app/)
 
