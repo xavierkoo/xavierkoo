@@ -28,7 +28,7 @@
 [![My Skills](https://skillicons.dev/icons?i=bootstrap,react,vue,nodejs,express,electron,jest,spring)](https://skillicons.dev)
 
 ### Databases & Tools
-[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,docker,git,github,rabbitmq,vite,heroku,netlify,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,docker,git,github,idea,rabbitmq,vite,heroku,netlify,figma)](https://skillicons.dev)
 <br />  <br />
 ![Xavier's GitHub stats](https://github-readme-stats.vercel.app/api?username=xavierkoo&show_icons=true&&theme=buefy&locale=en&count_private=true)
 <img src="https://streak-stats.demolab.com?user=xavierkoo&locale=en&mode=weekly&theme=buefyla&hide_border=false&border_radius=6&order=3" width="468" alt="streak graph"  />
