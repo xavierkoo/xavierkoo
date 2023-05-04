@@ -11,9 +11,9 @@
 
 - 🌱 I’m currently learning **full stack development (Electron.js & Redux)**
 
-- 💻 Check out my website on [https://xavier-koo.netlify.app/](https://xavier-koo.netlify.app/)
+- 💻 Check out my [website](https://xavierkoo.github.io/)
 
-- 📝 I write articles on [https://medium.com/@xavier2812](https://medium.com/@xavier2812)
+- 📝 I write articles on [Medium](https://medium.com/@xavier2812)
 
 - 🔭 My interests are in **full stack development, machine learning, artificial intelligence**
 
