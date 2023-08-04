@@ -29,6 +29,10 @@
 
 ### Databases & Tools
 [![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,docker,git,github,idea,rabbitmq,vite,heroku,netlify,figma)](https://skillicons.dev)
-<br />  <br />
+<br />
+
+### Others
+![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
 
 <img src="https://streak-stats.demolab.com?user=xavierkoo&locale=en&mode=weekly&theme=buefyla&hide_border=false&border_radius=6&order=3" width="468" alt="streak graph"  />
+
