@@ -9,7 +9,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&lines=Aspiring+Software+Engineer;SMU+Information+Systems+Student)](https://git.io/typing-svg)
 </div>
 
-- 🌱 I’m currently learning **full stack development (Redux) & Computer Vision**
+- 🌱 I’m currently learning **full stack development (GraphQL) & Computer Vision**
 
 - 💻 Check out my [website](https://xavierkoo.github.io/)
 
