@@ -11,7 +11,7 @@
 
 - 💻 Check out my [website](https://xavierkoo.github.io/)
 
-- 📝 I write articles on [Medium](https://medium.com/@xavier2812)
+- 📝 I write on [Medium](https://medium.com/@xavier2812)
 
 - 🔭 My interests are in **full stack development, machine learning, and artificial intelligence**
 
