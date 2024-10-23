@@ -23,14 +23,11 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,java,dart)](https://skillicons.dev)
 
 ### Frameworks & Libraries
-[![My Skills](https://skillicons.dev/icons?i=bootstrap,react,vue,nodejs,express,electron,jest,spring,flutter,fastapi)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,react,vue,angular,nodejs,express,electron,jest,spring,flutter,fastapi)](https://skillicons.dev)
 
 ### Databases & Tools
-[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,sqlite,docker,aws,git,github,idea,rabbitmq,vite,heroku,netlify,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,sqlite,docker,aws,cypress,git,github,idea,rabbitmq,vite,heroku,netlify,figma)](https://skillicons.dev)
 <br />
-
-### Others
-![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
 
 <img src="https://streak-stats.demolab.com?user=xavierkoo&locale=en&mode=weekly&theme=buefyla&hide_border=false&border_radius=6&order=3" width="468" alt="streak graph"  />
 
